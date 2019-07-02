@@ -1,3 +1,5 @@
+<!-- main web page where students input there information -->
+
 <html>
 	<head>
 	<title> CSMATH Course Planner</title>
