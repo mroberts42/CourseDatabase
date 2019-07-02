@@ -1,3 +1,5 @@
+/*uploads CSV files to database*/
+
 
 LOAD DATA LOCAL
 INFILE 'course.csv' 
