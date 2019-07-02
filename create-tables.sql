@@ -1,3 +1,6 @@
+/*creates course database*/
+
+
 CREATE DATABASE CoursePlanner;
 
 USE CoursePlanner;
