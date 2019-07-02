@@ -1,3 +1,7 @@
+<!-- returns information based on students input, displays classes they still need to take, electives they can take, and whether
+they can graduate in an appropriate amount of time-->
+
+
 <?php
 /*MySql Server info and connection */
 $servername = "localhost";
